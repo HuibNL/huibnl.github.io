@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Education
-description: Here's a quick overview of formal education I've followed and extracurricular activities I've particpated in. 📚
+description: 📚 Here's a quick overview of formal education I've followed and extracurricular activities I've particpated in. 
 menu: true
 order: 2
 ---
