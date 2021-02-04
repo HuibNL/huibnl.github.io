@@ -38,22 +38,23 @@ Providing support of a Super User Program on the Spotify Community and on Twitte
 ## <img width="45" height="30" src="../images/redcross.png" alt="red cross logo" style="display:inline; float:left;margin-right:12px"> Red Cross: COVID-19 volunteer
 COVID-related volunteer work for the Red Cross.
 
-- Testing street support (together with the military and GGD Kennemerland) at Schiphol
+- Support at the Testing Streets (together with the military and GGD Kennemerland) at Schiphol
 - Assisting in care homes, hospitals and quarantined areas
+- Providing support in homeless-shelters
 - Other tasks related to COVID-19
 
 ## <img width="30" height="30" src="../images/jongenout.png" alt="red cross logo" style="display:inline; float:left;margin-right:12px"> Jong&Out
 Jong&Out is a closed platform for LGBTQIA+ youth, powered by COC The Netherlands, where they can chat, meet new friends and socialize both online and in real life.
 
 My tasks as (online) Webteam Coordinator include:
-- Preparing design assets for social media
+- Preparing and publishing design assets for social media
 - Technical troubleshooting and user (customer) support
 - Processing feedback from the community
 - Monitoring the health of the community
-- Onboarding and supporting the volunteers
+- Onboarding, supporting and motivating the volunteer team
 - Reporting to the project leader at COC Nederland
 
 Next to my tasks as webteam coordinator, I am also an (offline) meeting guide for a local group (Jong&Out Haarlem). At a meeting, tasks may include:
 - Motivating and stimulating social interaction in a group
-- Working with youth and cooperating with the team
+- Working with youth and working in a team
 - Writing reports and reflecting on meetings

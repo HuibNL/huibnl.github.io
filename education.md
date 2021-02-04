@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Education
-description: 📚 Here's a quick overview of formal education I've followed and extracurricular activities I've particpated in. 
+description: 📚 Here's a quick overview of formal education I've followed and extracurricular activities I've particpated in.
 menu: true
 order: 2
 ---
@@ -15,3 +15,14 @@ Information Science is a broad and interdisciplinary field, primarily concerned 
 ### VWO (Pre-University Secondary Education)
 
 **Activities:** student-council, schoolpaper, organisation committee, gender & sexuality alliance, mediation, hiring committee
+
+# Licenses and Certifications
+## Cambridge Advanced English
+**British Council** - Issued in June 2018
+[View certificate](https://support.cambridgeenglish.org/hc/en-gb/articles/360022213372)
+
+**Credential ID:** 186NL0015049
+
+## Giving Honest Feedback
+**GoodHabitz** - Issued in Febuary 2021
+[View certificate](../certificate/fb_training.pdf)
