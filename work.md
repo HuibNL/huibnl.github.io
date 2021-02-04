@@ -26,7 +26,7 @@ The Programme Committee is an advisory and consultative body at programme level.
 
 # Volunteer Experience
 ## <img width="30" height="30" src="../images/spotify.png" alt="spotify logo" style="display:inline; float:left;margin-right:12px"> Spotify: Community/Twitter Support
-Providing support of a Super User Program on the Spotify Community and on Twitter.
+Providing support as part of the Super User Program of the Spotify Community and on Twitter.
 
 - Helping Spotify users on the Spotify Community (Khoros Community) and on Twitter (Khoros Care Response) in their Tone of Voice and standards.
 - Announcing new tests and features on the Spotify Community, monitoring the feedback and replying to questions from users.
