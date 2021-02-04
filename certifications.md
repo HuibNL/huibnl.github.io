@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Licenses and Certifications
-description: 📢 Licenses and certifications for courses/trainings/(e-)learnings I've completed.
+title: Trainings
+description: 📢 Licenses and certificates for courses/trainings/(e-)learnings I've completed.
 menu: true
 order: 3
 ---
-# Licenses and Certifications
 ## Cambridge Advanced English
 **British Council** - Issued in June 2018
 
