@@ -43,6 +43,8 @@ COVID-related volunteer work for the Red Cross.
 - Providing support in homeless-shelters
 - Other tasks related to COVID-19
 
+[News Article (in Dutch)](https://www.haarlemsdagblad.nl/cnt/dmf20210107_9659070) 
+
 ## <img width="30" height="30" src="../images/jongenout.png" alt="red cross logo" style="display:inline; float:left;margin-right:12px"> Jong&Out
 Jong&Out is a closed platform for LGBTQIA+ youth, powered by COC The Netherlands, where they can chat, meet new friends and socialize both online and in real life.
 
